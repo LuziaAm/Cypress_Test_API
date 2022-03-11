@@ -1,6 +1,12 @@
 # Cypress_Test_API
 Run CRUD by Cypress framework
 
+FakeRESTApi.Web V1
+ v1 
+OAS3
+/swagger/v1/swagger.json
+
+https://fakerestapi.azurewebsites.net/index.html
 
 Cmd used:
 
